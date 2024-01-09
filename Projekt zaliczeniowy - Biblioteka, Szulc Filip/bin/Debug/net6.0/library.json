@@ -1,0 +1,320 @@
+[
+  {
+    "Title": "Punk 57",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Corrupt",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Hideaway",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Kill Switch",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Nightfall",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Conclave",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Firenight",
+    "Author": "Penelope Douglas",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "The Hating Game",
+    "Author": "Sally Thorne",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "The Deal",
+    "Author": "Elle Kennedy",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Czwarte Skrzydło",
+    "Author": "Rebecca Yarros",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Okrutny Książę",
+    "Author": "Holly Black",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Zły Król",
+    "Author": "Holly Black",
+    "IsAvailable": false,
+    "RentedByName": "Aleksander Kamiński"
+  },
+  {
+    "Title": "Królowa Niczego",
+    "Author": "Holly Black",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Twisted Love",
+    "Author": "Ana Huang",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Twisted Hate",
+    "Author": "Ana Huang",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Twisted Lies",
+    "Author": "Ana Huang",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Drobnym Drukiem",
+    "Author": "Lauren Asher",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Nie Od Pierwszego Wejrzenia",
+    "Author": "Meghan Quinn",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Krew I Popiół",
+    "Author": "Jennifer L. Armentrout",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Królestwo Ciała I Ognia",
+    "Author": "Jennifer L. Armentrout",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Korona Ze Złoconych Kości",
+    "Author": "Jennifer L. Armentrout",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Cień W Żarze",
+    "Author": "Jennifer L. Armentrout",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Wojna Dwóch Królowych",
+    "Author": "Jennifer L. Armentrout",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Dotknij Mnie",
+    "Author": "Tahereh Mafi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Poskrom Mnie",
+    "Author": "Tahereh Mafi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Rozbudź Mnie",
+    "Author": "Tahereh Mafi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Ulecz Mnie",
+    "Author": "Tahereh Mafi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Jak Zawsze",
+    "Author": "Zygmunt Miłoszewski",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Bezcenny",
+    "Author": "Zygmunt Miłoszewski",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Kwestia Ceny",
+    "Author": "Zygmunt Miłoszewski",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Wyższa Karta",
+    "Author": "Marco Malvaldi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Król Gry",
+    "Author": "Marco Malvaldi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Trzy Karty",
+    "Author": "Marco Malvaldi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Cień Wiatru",
+    "Author": "Carlos Ruiz Zafon",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Gra Anioła",
+    "Author": "Carlos Ruiz Zafon",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Więzień Nieba",
+    "Author": "Carlos Ruiz Zafon",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Labirynt Duchów",
+    "Author": "Carlos Ruiz Zafon",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Uśmiech Shoko",
+    "Author": "Eunyoung Choi",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Gąsienica",
+    "Author": "Ranpo Edogawa",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Złodziej Dusz",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": false,
+    "RentedByName": "Michał Szumoń"
+  },
+  {
+    "Title": "Bogowie Muszą Być Szaleni",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Zwycięzca Bierze Wszystko",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Wszystko Zostaje W Rodzinie",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Egzorcyzmy Dory Wilk",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Na Wojnie Nie Ma Niewinnych",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Cud Miód Malina",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Cuda Wianki",
+    "Author": "Aneta Jadowska",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Red White And Royal Blue",
+    "Author": "Casey Mcquiston",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Today, Tonight, Tomorrow",
+    "Author": "Rachel Lynn Solomon",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Main Kampff",
+    "Author": "Adolf Hitler",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Pinokio",
+    "Author": "Carlo Collodi",
+    "IsAvailable": false,
+    "RentedByName": "Filip Szulc"
+  },
+  {
+    "Title": "sposób bycia",
+    "Author": "Carl Rogers",
+    "IsAvailable": true,
+    "RentedByName": null
+  },
+  {
+    "Title": "Zaginiona",
+    "Author": "Harlen Coben",
+    "IsAvailable": true,
+    "RentedByName": null
+  }
+]

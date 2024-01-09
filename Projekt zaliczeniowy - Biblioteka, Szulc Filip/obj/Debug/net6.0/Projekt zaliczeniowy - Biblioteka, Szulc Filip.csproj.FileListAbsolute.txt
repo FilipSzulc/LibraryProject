@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\bin\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.exe
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\bin\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.deps.json
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\bin\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.runtimeconfig.json
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\bin\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.dll
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\bin\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.pdb
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.AssemblyInfo.cs
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.csproj.CopyComplete
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.dll
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\refint\Projekt zaliczeniowy - Biblioteka, Szulc Filip.dll
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.pdb
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\Projekt zaliczeniowy - Biblioteka, Szulc Filip.genruntimeconfig.cache
+C:\Users\user\OneDrive\Pulpit\Projekt zaliczeniowy - Biblioteka, Szulc Filip\Projekt zaliczeniowy - Biblioteka, Szulc Filip\obj\Debug\net6.0\ref\Projekt zaliczeniowy - Biblioteka, Szulc Filip.dll
